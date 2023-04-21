@@ -1,3 +1,41 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://petemyron.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Pete Myron'
+
+# Change the default theme to be used when building the site with Hugo
+theme = 'relearn'
+
+# For search functionality
+[outputs]
+    home = [ "HTML", "RSS", "SEARCH", "SEARCHPAGE"]
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+    # Shows a checkmark for visited pages on the menu
+    showVisitedLinks = true
+
+    # Hide breadcrumbs in the header and only show the current page title
+    disableBreadcrumb = true
+
+    # If set to false, a Home button will appear below the search bar on the menu.
+    # It is redirecting to the landing page of the current language if specified. (Default is "/")
+    disableLandingPageButton = true
+
+    # If set to false, load the Swagger module on every page regardless if a Swagger shortcode is present
+    disableSwagger = true
+
+    themeVariant = [ "dark", "relearn-light" ]
+
+
+# extra menu items
+[[menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-github'></i> GitHub"
+    url = "https://github.com/petemyron"
+    weight = 101
+
+[[menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-linkedin'></i> LinkedIn"
+    url = "https://www.linkedin.com/in/petemyron/"
+    weight = 102
