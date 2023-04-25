@@ -1,6 +1,7 @@
 +++
 title = "Device Matrix"
 description = "Remote, real device access and automation"
+weight = 10
 +++
 
 ![Device Matrix logo](/images/device_matrix_logo_light.svg)
