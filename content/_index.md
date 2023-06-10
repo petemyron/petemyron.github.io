@@ -7,4 +7,4 @@ title = ""
 
 # PETE MYRON
 
-Hi! I'm an extremely versatile and a quick learner with nearly 20 years of experience creating patented telemetry and monitoring systems, integrating services, and efficiently creating value on anything I touch. I will go deep on any subject of interest, whether it's technical or not, just to learn something new. Curiosity is a daily adventure for me. I'm equally comfortable speaking nerd or business and can thread the needle between the two to help solve problems. I'm happy to manage the workloads of staff or commit code myself.
+Hey there! I'm a super versatile and fast learner with almost 20 years of experience creating cool telemetry and monitoring systems, integrating services, and making things better in general. I love diving deep into any topic, whether it's technical or not, just to learn something new. I'm always curious and love exploring new things. I can speak both nerd and business, so I'm great at bridging the gap between the two to help solve problems. Whether it's managing staff or writing code myself, I'm happy to take on any workload.

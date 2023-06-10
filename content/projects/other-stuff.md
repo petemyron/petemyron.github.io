@@ -4,18 +4,19 @@ description = "Inventions galore!"
 weight = 100
 +++
 
-Here are some inventions I've created over the years that can be very interesting. Some projects remain confidential and, unfortunately, no details can be given.
+Here are some inventions I've developed over the past few years. Some projects remain confidential and, unfortunately, limited details can be given.
 
 * Real devices in the metaverse
 * Native Android Accessibility scanning in Gitlab-CI
 * Braille universal command line interface - ChatGPT, SSH, Zork (text-based game)
 * Eye tracking applications
 * Testing advertisement/pushed messages on a plurality of devices
-* Context dependent and hyper-pesonalized ads with AI
+* Context dependent and hyper-personalized ads with AI
 * Danger vest!
 * Raspberry Pi Radio
 * 3D printed EEG for focus-based action
-* Alexa integration with actionable metrics
+* Actionable metrics Alexa integration
+* Facebook slap!
 
 
 ---
