@@ -9,7 +9,6 @@ weight = 30
 ### TEXT
 In the early days of OpenAI, I created various agents to integrate GPT3 into somewhat frivilous/fun capacities--though I would say the experience was a crucial step into applied AI. Though I'm pretty bad at reading or typing Braille, I learned the basics enough to write a Golang library connected to an hid USB bit of hardware (Orbit Reader). Later on ChatGPT made this even easier.
 
-[orbitreader image]
 ![Orbit Reader](/images/orbit-reader.png)
 
 ### IMAGES
