@@ -31,7 +31,7 @@ weight = 10
 
 ![NodeJS](/images/nodejs-logo.svg?classes=inline&width=10vh "Node.JS logo")
 
-![Swagger](/images/swagger.png?classes=inline&width=10vh "Swagger logo")
+![Swagger](/images/swagger-logo.png?classes=inline&width=10vh "Swagger logo")
 
 ![Grafana](/images/grafana-logo.svg?classes=inline&width=10vh "Grafana logo")
 
