@@ -4,7 +4,7 @@ description = "A website performance monitoring tool"
 weight = 20
 +++
 
-# [![sitespeed](/images/sitespeed-logo.png?classes=inline&width=10vh "sitespeed logo") Sitespeed](https://github.com/sitespeedio/sitespeed.io)
+# [![sitespeed](/images/sitespeed-logo.png?classes=inline&width=10vh "sitespeed logo")](https://github.com/sitespeedio/sitespeed.io)
 
 [{{% icon icon="fab fa-fw fa-github" %}} Sitespeed](https://sitespeed.io) is an opensource website performance and monitoring tool, which I also configured to be used for tracking availability. Several AWS EC2 instances were deployed in each of the four US regions and later moved to Kubernetes.
 

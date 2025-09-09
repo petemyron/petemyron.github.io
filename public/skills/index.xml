@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skills :: Pete Myron</title>
+    <link>http://localhost:1313/skills/index.html</link>
+    <description>I possess a wide range of skills that make me a valuable asset to any development team. My proficiency in programming languages such as Python, Ruby, and Go, as well as some Android/Java and iOS development, allows me to develop and maintain complex applications with ease. I am also experienced in working with monitoring and visualization tools such as Grafana, InfluxDB/TICK, Elastic Stack, and Prometheus, which enables me to monitor and analyze system performance effectively. Additionally, my expertise in containerization with Docker and cloud computing with AWS allows me to deploy and manage applications in a scalable and efficient manner. I have a lot of telemetry and system monitoring expereicne. I’m a highly effective communicator and can solve problems autonomously, ensuring that projects are delivered on time and within budget. I am naturally curious and always eager to learn new technologies and techniques, which makes me a valuable member of any team.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/skills/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
