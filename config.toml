@@ -27,6 +27,7 @@ theme = 'relearn'
     disableSwagger = true
 
     themeVariant = [ "dark" ]
+    favicon = "favicon.ico"
 
 # extra menu items
 [[menu.shortcuts]]
