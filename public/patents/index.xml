@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Patents :: Pete Myron</title>
-    <link>http://localhost:1313/patents/index.html</link>
+    <link>https://petemyron.github.io/patents/index.html</link>
     <description>PATENTS I am passionate about inventing things, most recently in the domains of telemetry, automation, and accessibility. I love taking an idea and turning it into a prototype and refining it until it becomes of obvious value. It’s incredibly satisfying to see my ideas come to life and make a positive impact on people’s lives. I believe that technology can be used to make the world a better place, and I’m always looking for ways to use my skills to create innovative solutions that improve people’s lives. Whether it’s developing new tools to help make things more accessible, automating tedious tasks to save time and increase efficiency, or using telemetry to gather data and improve performance, I’m always excited to explore new possibilities and push the boundaries of what’s possible.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/patents/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://petemyron.github.io/patents/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

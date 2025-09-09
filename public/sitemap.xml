@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about-me/index.html</loc>
+    <loc>https://petemyron.github.io/about-me/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/experience/index.html</loc>
+    <loc>https://petemyron.github.io/experience/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/skills/index.html</loc>
+    <loc>https://petemyron.github.io/skills/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/index.html</loc>
+    <loc>https://petemyron.github.io/projects/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/patents/index.html</loc>
+    <loc>https://petemyron.github.io/patents/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/device-matrix/index.html</loc>
+    <loc>https://petemyron.github.io/projects/device-matrix/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/sitespeed/index.html</loc>
+    <loc>https://petemyron.github.io/projects/sitespeed/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/generate-ai/index.html</loc>
+    <loc>https://petemyron.github.io/projects/generate-ai/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/projects/other-stuff/index.html</loc>
+    <loc>https://petemyron.github.io/projects/other-stuff/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/categories/index.html</loc>
+    <loc>https://petemyron.github.io/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/tags/index.html</loc>
+    <loc>https://petemyron.github.io/tags/index.html</loc>
   </url>
 </urlset>

@@ -26,8 +26,7 @@ theme = 'relearn'
     # If set to false, load the Swagger module on every page regardless if a Swagger shortcode is present
     disableSwagger = true
 
-    themeVariant = [ "dark", "relearn-light" ]
-
+    themeVariant = [ "dark" ]
 
 # extra menu items
 [[menu.shortcuts]]
