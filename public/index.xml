@@ -3,7 +3,7 @@
   <channel>
     <title>Pete Myron</title>
     <link>https://petemyron.github.io/index.html</link>
-    <description>PETE MYRON Hey there! I’m a super versatile techy with almost 20 years of experience creating cool telemetry and monitoring systems, integrating services, and making things better in general. I love diving deep into any topic, whether it’s technical or not, just to learn something new. I’m always curious and love exploring new things. I can speak both nerd and business, so I’m great at bridging the gap between the two to help solve problems. Whether it’s managing staff or writing code myself, I’m happy to take on any workload.</description>
+    <description>Hey there! I’m a super versatile techy with almost 20 years of experience creating cool telemetry and monitoring systems, integrating services, and making things better in general. I love diving deep into any topic, whether it’s technical or not, just to learn something new. I’m always curious and love exploring new things. I can speak both nerd and business, so I’m great at bridging the gap between the two to help solve problems. Whether it’s managing staff or writing code myself, I’m happy to take on any workload.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://petemyron.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -40,7 +40,7 @@
       <link>https://petemyron.github.io/patents/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://petemyron.github.io/patents/index.html</guid>
-      <description>PATENTS I am passionate about inventing things, most recently in the domains of telemetry, automation, and accessibility. I love taking an idea and turning it into a prototype and refining it until it becomes of obvious value. It’s incredibly satisfying to see my ideas come to life and make a positive impact on people’s lives. I believe that technology can be used to make the world a better place, and I’m always looking for ways to use my skills to create innovative solutions that improve people’s lives. Whether it’s developing new tools to help make things more accessible, automating tedious tasks to save time and increase efficiency, or using telemetry to gather data and improve performance, I’m always excited to explore new possibilities and push the boundaries of what’s possible.</description>
+      <description>I am passionate about inventing things, most recently in the domains of telemetry, automation, and accessibility. I love taking an idea and turning it into a prototype and refining it until it becomes of obvious value. It’s incredibly satisfying to see my ideas come to life and make a positive impact on people’s lives. I believe that technology can be used to make the world a better place, and I’m always looking for ways to use my skills to create innovative solutions that improve people’s lives. Whether it’s developing new tools to help make things more accessible, automating tedious tasks to save time and increase efficiency, or using telemetry to gather data and improve performance, I’m always excited to explore new possibilities and push the boundaries of what’s possible.</description>
     </item>
   </channel>
 </rss>

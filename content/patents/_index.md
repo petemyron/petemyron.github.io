@@ -4,8 +4,6 @@ title = "Patents"
 weight = 4
 +++
 
-# PATENTS
-
 I am passionate about inventing things, most recently in the domains of telemetry, automation, and accessibility. I love taking an idea and turning it into a prototype and refining it until it becomes of obvious value. It's incredibly satisfying to see my ideas come to life and make a positive impact on people's lives. I believe that technology can be used to make the world a better place, and I'm always looking for ways to use my skills to create innovative solutions that improve people's lives. Whether it's developing new tools to help make things more accessible, automating tedious tasks to save time and increase efficiency, or using telemetry to gather data and improve performance, I'm always excited to explore new possibilities and push the boundaries of what's possible.
 
 Sometimes, while on these adventures, it happens that there is a need to protect intellectual property from these innovations. Here are a select few patents that have been granted along the way with many more still pending.
