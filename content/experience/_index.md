@@ -7,12 +7,13 @@ weight = 1
 ## Sr. Site Reliability Engineer, Developer Portal, Electronic Arts – since 2023
 Led platform reliability and developer experience initiatives across testing, CI/CD, observability, documentation, and GitOps. Designed scalable infrastructure and tools to improve platform adoption, developer velocity, and system visibility.
 * Achieved 100% uptime on user-facing tools
+* Orchestrated seamless migration to new Kubernetes cluster, including ground-up creation of AWS accounts, VPCs, Terraform modules, and EKS infrastructure
 * Expanded automated test coverage from ~10% to 70%, growing tests to 500+ assertions
 * Improved CI/CD efficiency by 30% through pipeline and test optimization, accelerating feedback loops for developers
 * Delivered a multi-Argo CD integration, enabling multi-cluster GitOps visibility and onboarding disparate, high-profile teams
-* Implemented unified search and indexing across catalog entities and TechDocs
-* Developed a reusable GitLab CI stage to let partner teams publish documentation to Backstage automatically
-* Created a UI form for editing Backstage entity metadata, simplifying onboarding for TechDocs and Argo CD annotations
+* Implemented unified search and indexing across catalog entities and TechDocs, improving discoverability
+* Developed a reusable GitLab CI stage to let partner teams publish technical documentation to Backstage automatically
+
 
 ## Principal Software Engineer, Customer Experience Lab, T-Mobile – 2019
 Managed team of engineers for daily lifecycle of group's main products, determining broad strategy and prioritizing tasks. Handled service design, security, and compliance of all aspects. Recommended policy changes and contributed to policy documentation. Conducted independent study and prototyping of potential new systems, services, methods, and frameworks in areas of generative AI, AR/VR, and accessibility.
