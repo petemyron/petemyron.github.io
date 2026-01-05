@@ -8,12 +8,15 @@ I am passionate about inventing things, most recently in the domains of telemetr
 
 Sometimes, while on these adventures, it happens that there is a need to protect intellectual property from these innovations. Here are a select few patents that have been granted along the way with many more still pending.
 
-- 9860273 - [Logging Encrypted Data Communications For QoE Analysis](https://patents.justia.com/patent/9860273)
+- 9860273  - [Logging Encrypted Data Communications For QoE Analysis](https://patents.justia.com/patent/9860273)
 - 10334415 - [Voice user interface for device and component control ](https://patents.justia.com/patent/10334415)
 - 10382922 - [Distributed testing of wireless networks](https://patents.justia.com/patent/10382922)
 - 10440597 - [Local Monitoring Of Cellular Base Stations](https://patents.justia.com/patent/10440597)
 - 10623166 - [Systems And Methods For Improved Uptime For Network Devices](https://patents.justia.com/patent/10623166)
 - 10820274 - [Testing Power Consumption Of Electronic Devices](https://patents.justia.com/patent/10820274)
 - 10846206 - [Adaptive Software Testing](https://patents.justia.com/patent/10846206)
-- 11075946 - [Honeypot Adaptive Security System](https://patents.justia.com/patent/11075946)
 - 11601828 - [Advertising Campaign Predictive Validator](https://patents.justia.com/patent/11601828)
+- 12229730 - [Inferring Meeting Expense Via A Meeting Expense and Verification Controller](https://patents.justia.com/patent/12229730)
+- 12248748 - [Encoding non-verbal communication metadata into text](https://patents.justia.com/patent/12248748)
+- 12402845 - [Biometric triggers for alternative stimulation/notification](https://patents.justia.com/patent/12402845)
+- 12518439 - [Inciting emotional tension for system alerting with AI-generated images](https://patents.justia.com/patent/12518439)
